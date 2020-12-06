@@ -1,21 +1,21 @@
 {
-    "name": "laboratory-themes",
-    "displayName": "laboratory themes",
-    "description": "this project is for testing new themes or features",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "icao",
-                "uiTheme": "vs-dark",
-                "path": "./themes/icao-color-theme.json"
-            }
-        ]
-    }
+  "name": "laboratory-themes",
+  "displayName": "laboratory themes",
+  "description": "this project is for testing new themes or features",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "icao",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boson-theme.json"
+      }
+    ]
+  }
 }
